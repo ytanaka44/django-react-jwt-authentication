@@ -1,3 +1,4 @@
 django==4.2.9
-djoser
+djoser==2.2.2
 django-cors-headers==4.0.0
+django-environ
